@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boleng</h1>
 <h3 align="center">A passionate full stack web and mobile developer in Toronto, Canada</h3>
 
-- 🔭 I’m currently working on a **B2B RaaS platform at LIVD**
+- 🔭 I’m currently working on a **B2B SaaS platform at LIVD**
 
 - 🌱 I’m currently learning **React, Ruby**
 
