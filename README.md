@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a **B2B SaaS platform at LIVD**
 
-- 🌱 I’m currently learning **React, Ruby**
+- 🌱 I’m currently learning **React, Angular**
 
 - 👨‍💻 All of my projects are available at [www.digitaldreamsbyboleng.com](www.digitaldreamsbyboleng.com)
 
-- 💬 Ask me about **React Native, Kotlin, Swift, JavaScript**
+- 💬 Ask me about **React Native, Kotlin, Swift, JavaScript, TypeScript,**
 
 - 📫 How to reach me **bolengmasedi@gmail.com**
 
