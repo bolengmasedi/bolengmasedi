@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning ** Angular**
 
-- 👨‍💻 All of my projects are available at [www.digitaldreamsbyboleng.com](www.digitaldreamsbyboleng.com)
-
-- 💬 Ask me about **React Native, Kotlin, Swift, JavaScript, TypeScript,**
+- 💬 Ask me about **React, React Native, Kotlin, Swift, JavaScript, TypeScript,**
 
 - 📫 How to reach me **bolengmasedi@gmail.com**
 
