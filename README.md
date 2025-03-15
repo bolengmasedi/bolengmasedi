@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning ** Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **React, React Native, Kotlin, Swift, JavaScript, TypeScript,**
 
